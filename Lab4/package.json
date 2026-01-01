@@ -1,0 +1,15 @@
+{
+  "name": "lab4",
+  "version": "1.0.0",
+  "description": "In this lab, you will write tests in `main_test.js`. You can learn how to use [Puppeteer](https://pptr.dev/) to tests a web UI.",
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "main_test.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "puppeteer": "^24.23.0"
+  }
+}
