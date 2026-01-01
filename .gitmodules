@@ -1,0 +1,3 @@
+[submodule "hw2"]
+	path = hw2
+	url = git@github.com:dytsou/software-testing-hw2.git
