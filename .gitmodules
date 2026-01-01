@@ -1,3 +1,6 @@
 [submodule "hw2"]
 	path = hw2
 	url = git@github.com:dytsou/software-testing-hw2.git
+[submodule "hw3"]
+	path = hw3
+	url = git@github.com:dytsou/software-testing-hw3.git
