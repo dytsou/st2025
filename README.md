@@ -40,12 +40,12 @@ The homework assignments are maintained as separate git submodules:
 
 - **hw2** - Calculator TDD Project (Go)
   - Test-Driven Development implementation of a calculator
-  - See [hw2/README.md](hw2/README.md) for details
+  - See [hw2/README.md](https://github.com/dytsou/software-testing-hw2/blob/main/README.md) for details
 
 - **hw3** - BoundedQueue ISP Testing (JavaScript)
   - Input Space Partitioning (ISP) testing techniques
-  - See [hw3/README.md](hw3/README.md) for details
+  - See [hw3/README.md](https://github.com/dytsou/software-testing-hw3/blob/main/README.md) for details
 
 - **hw4** - Calculator Mutation Testing (JavaScript)
   - Mutation testing using Stryker
-  - See [hw4/README.md](hw4/README.md) for details
+  - See [hw4/README.md](https://github.com/dytsou/software-testing-hw4/blob/main/README.md) for details
