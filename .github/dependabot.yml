@@ -5,9 +5,54 @@
 
 version: 2
 updates:
-  - package-ecosystem: "" # See documentation for possible values
-    directory: "/" # Location of package manifests
+  # npm projects
+  - package-ecosystem: "npm"
+    directory: "/Lab0"
     schedule:
       interval: "weekly"
       day: 'friday'
       time: '09:00'
+    commit-message:
+      prefix: "chore(deps)"
+      include: "scope"
+  
+  - package-ecosystem: "npm"
+    directory: "/Lab4"
+    schedule:
+      interval: "weekly"
+      day: 'friday'
+      time: '09:00'
+    commit-message:
+      prefix: "chore(deps)"
+      include: "scope"
+  
+  - package-ecosystem: "npm"
+    directory: "/hw3"
+    schedule:
+      interval: "weekly"
+      day: 'friday'
+      time: '09:00'
+    commit-message:
+      prefix: "chore(deps)"
+      include: "scope"
+  
+  - package-ecosystem: "npm"
+    directory: "/hw4"
+    schedule:
+      interval: "weekly"
+      day: 'friday'
+      time: '09:00'
+    commit-message:
+      prefix: "chore(deps)"
+      include: "scope"
+  
+  # Go project
+  - package-ecosystem: "gomod"
+    directory: "/hw2"
+    schedule:
+      interval: "weekly"
+      day: 'friday'
+      time: '09:00'
+    commit-message:
+      prefix: "chore(deps)"
+      include: "scope"
