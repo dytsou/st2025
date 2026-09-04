@@ -10,6 +10,6 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "dependencies": {
-    "puppeteer": "^25.3.0"
+    "puppeteer": "^25.9.0"
   }
 }
